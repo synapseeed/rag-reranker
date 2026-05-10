@@ -2,3 +2,5 @@ torch
 transformers
 fastapi
 uvicorn
+python-dotenv
+numpy
